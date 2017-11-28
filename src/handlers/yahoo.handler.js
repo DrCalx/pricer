@@ -1,5 +1,7 @@
 module.exports = {
   getPrice: (symbol) => {
-    return 42
+    return new Promise((resolve, reject) => {
+      resolve(42)
+    })
   }
 }
