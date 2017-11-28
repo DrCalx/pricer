@@ -20,7 +20,8 @@
   "author": "Matthew Duguay",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "yahoo-finance": "^0.3.5"
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
